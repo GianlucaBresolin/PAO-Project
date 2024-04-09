@@ -1,0 +1,62 @@
+Pazienti:
+(Gianluca|Bresolin|05/01/2002|AWFKAFIH785|
+
+Documentazione del paziente
+	Nome: Gianluca
+	Cognome: Bresolin
+	Data di nascita: 05/01/2002
+	Codice Fiscale: AWFKAFIH785
+
+Il/la paziente Gianluca Bresolin
+e' stato/a accolto/a in accettazione dall'operatore Rebecca Zulian
+con il seguente codice: Orange
+
+
+Il/la paziente Gianluca Bresolin
+e' stato/a visitato/a dal dott./dott.ssa Marta Mascarello
+
+Sintomi: 
+Respiro affannoso con dolore al polmone Sx.
+
+Diagnosi: 
+Respiro affannoso con dolore al polmone Sx.
+
+Il/la paziente Gianluca Bresolin
+e' stato/a dimesso/a sotto responsabilita' del/della dott./dott.ssa Emma Bianchi
+
+)
+(Riccardo|Bizzotto|17/06/1965|FSEAGJJ338)
+END_Pazienti
+Operatori:
+(D|Marta|Mascarello|26/08/1967)
+(P|Emma|Bianchi|04/09/1992)
+(N|Francesco|Sansone|16/10/1980)
+END_Operatori
+Cartelle Mediche:
+(P(Gianluca|Bresolin|05/01/2002|AWFKAFIH785),O(0),S(Pre Acceptance),C(Unsettled),D(
+Documentazione del paziente
+	Nome: Gianluca
+	Cognome: Bresolin
+	Data di nascita: 05/01/2002
+	Codice Fiscale: AWFKAFIH785
+
+
+
+))
+Fine_Cartella
+(P(Riccardo|Bizzotto|17/06/1965|FSEAGJJ338),O(N|Rebecca|Zulian|22/02/2004),S(Acceptance),C(Blue),D(
+Documentazione del paziente
+	Nome: Riccardo
+	Cognome: Bizzotto
+	Data di nascita: 17/06/1965
+	Codice Fiscale: FSEAGJJ338
+
+Il/la paziente Riccardo Bizzotto
+e' stato/a accolto/a in accettazione dall'operatore Rebecca Zulian
+con il seguente codice: Blue
+
+
+
+))
+Fine_Cartella
+END_Cartelle_Mediche
