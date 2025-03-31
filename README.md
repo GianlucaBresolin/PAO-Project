@@ -5,7 +5,7 @@
 Progetto Universitario realizzato per il corso 'Programmazione ad oggetti' in cui si è realizzato un gestionale per una clinica medica.
 <br><br>
 
-*In questo progetto non è stata approfondita la parte grafica in quanto essa non facesse parte della valutazione. Il focus è stato posto principalmente sulla logica di programmazione e sulle funzionalità del software.*
+*In questo progetto non è stata approfondita la parte grafica. Il focus è stato posto principalmente sulla logica di programmazione e sulle funzionalità del software.*
 <br>
 *Per ulteriori informazioni consultare il report associato.*
 
